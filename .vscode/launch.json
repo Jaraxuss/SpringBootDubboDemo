@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "com.dubbostartup.provider.DemoApplication",
+            "projectName": "provider"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "com.dubbostartup.consumer.DemoApplication",
+            "projectName": "consumer"
+        }
+    ]
+}
